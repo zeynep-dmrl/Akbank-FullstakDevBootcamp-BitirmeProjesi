@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+}
+.HouseList, .BillList, .DuesList{
+    flex:4;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.table{
+    margin-top: 50px;
+    background-color: white;
+}
+.title{
+    color:rgb(255, 105, 0);
+    font-size: 22px;
+    font-weight:600;
+    margin-left: 18px;
+}

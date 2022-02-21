@@ -1,0 +1,25 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+}
+.card-col{
+    margin-bottom: 30px;
+
+}
+.card{
+    width: 18rem;
+    height: 10rem;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+.card-header{
+    margin-bottom: 10px;
+    border-bottom:gray;
+    background-color: whitesmoke;
+    padding: 1rem;
+}
+.card-title{
+    font-weight: bold;
+}

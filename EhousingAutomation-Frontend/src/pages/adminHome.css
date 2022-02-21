@@ -1,0 +1,14 @@
+.admin-container{
+    display: flex;
+    background-color: rgb(253, 248, 229);
+}
+.home{
+    flex: 4;
+    margin-top: 50px;
+    
+}
+.homeWidgets
+{
+   display: flex;
+   margin:20px;
+}
