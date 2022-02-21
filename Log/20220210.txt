@@ -1,0 +1,5 @@
+All houses that are in list fetched sorted by their ids.	Time: 00:24:32
+Bills was fetched from the db	Time: 00:53:33
+All bills that are in list fetched.	Time: 00:58:58
+All bills that are in list fetched.	Time: 01:31:02
+All bills that are in list fetched.	Time: 02:01:50
