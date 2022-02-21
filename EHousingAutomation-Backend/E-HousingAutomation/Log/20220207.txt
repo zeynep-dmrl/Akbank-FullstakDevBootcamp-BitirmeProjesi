@@ -1,0 +1,19 @@
+All bills that are in list fetched sorted by their ids.	Time: 01:17:24
+Bill (1)  was fetched from the db	Time: 01:19:44
+All bills that are in list fetched sorted by their ids.	Time: 01:21:03
+All bills that are in list fetched sorted by their ids.	Time: 01:21:20
+Delete bill from database	Time: 01:22:54
+All bills that are in list fetched sorted by their ids.	Time: 01:22:54
+Error: Value cannot be null. (Parameter 'entity')	Time: 01:24:35
+Delete bill from database	Time: 01:25:11
+All bills that are in list fetched sorted by their ids.	Time: 01:25:11
+All dues that are in list fetched sorted by their ids.	Time: 01:26:25
+All dues that are in list fetched sorted by their ids.	Time: 01:27:59
+Dues (1)  was fetched from the db	Time: 01:28:45
+Delete dues from database	Time: 01:29:29
+All dues that are in list fetched sorted by their ids.	Time: 01:29:29
+Delete dues from database	Time: 01:30:54
+All dues that are in list fetched sorted by their ids.	Time: 01:30:54
+All bills that are in list fetched.	Time: 02:04:21
+All bills that are in list fetched.	Time: 02:06:00
+All bills that are in list fetched.	Time: 02:06:48
