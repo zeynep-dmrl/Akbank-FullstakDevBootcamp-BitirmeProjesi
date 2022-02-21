@@ -1,2 +1,0 @@
-All users that are in list fetched sorted by their ids.	Time: 23:21:40
-All users that are in list fetched sorted by their ids.	Time: 23:46:38

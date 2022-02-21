@@ -1,4 +1,0 @@
-All dues that are in list fetched sorted by their ids.	Time: 21:07:15
-All houses that are in list fetched sorted by their ids.	Time: 21:56:14
-House is already exist.	Time: 21:57:52
-All houses that are in list fetched sorted by their ids.	Time: 21:58:02
